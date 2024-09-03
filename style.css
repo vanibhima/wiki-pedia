@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    max-width: 600px;
+    width: 100%;
+    margin: auto;
+}
+header{
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+nav{
+    padding: 10px;
+    border-bottom: 1px solid gray;
+}
+nav span{
+    margin-left: 10px;
+}
+ 
+.one{
+    border-bottom: 2px solid black;
+}
+.a{
+    color: blue;
+}
+
+
+.content{
+    padding: 20px;
+}
+content p{
+    margin-bottom: 20px;
+}
+h2{
+    color: rgb(6, 180, 238);
+    margin-left: 750px;
+    position: relative;
+    bottom: 500px;
+}
+.order{
+    border: 1px solid gray;
+}
+.pic{
+    margin-top: 150px;
+    position: absolute;
+    left: 1000px;
+    top: 15px;
+    border-radius: 10px ;
+}
+.pic:hover{
+    border: 1px solid black;
+}
+table{
+    margin-left: 650px;
+    margin-bottom: 300px;
+    position: relative;
+    bottom: 600px;
+}
